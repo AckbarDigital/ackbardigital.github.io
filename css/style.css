@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -23,7 +23,7 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Navigation
 
@@ -147,7 +147,7 @@ Navigation
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
  Main Content
 
@@ -191,7 +191,7 @@ Navigation
   position: relative;
   height: 100vh;
   width: 100%;
-  background: #83b0b9;
+  background: #22313f;
   overflow: hidden;
 }
 .cd-section.services header {
@@ -340,6 +340,10 @@ Navigation
   -moz-transition: -moz-transform 0s 0.5s, opacity 0s 0.5s;
   transition: transform 0s 0.5s, opacity 0s 0.5s;
 }
+.cd-title img.logo{
+  height: 200px;
+  margin-bottom: 5%;
+}
 .cd-title h2 {
   font-size: 2.8rem;
   font-weight: 700;
@@ -386,7 +390,7 @@ Navigation
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
  Loading Bar
 
